@@ -27,6 +27,9 @@ options = {
         y: G.HEIGHT
     },
     theme: "dark"
+    // isCapturing: true,
+    // isCapturingGameCanvasOnly: true,
+    // captureCanvasScale: 2
 };
 
 /**
